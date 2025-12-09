@@ -1,0 +1,9 @@
+{
+  "name": "E-MEDIA — NeuroSphere",
+  "description": "A cyberpunk social network merging TikTok-style feeds, professional networking, and digital twin metaverse interactions across 12 digital nations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
